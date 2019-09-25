@@ -1,0 +1,28 @@
+body{
+  /* background-image : url(fluid.jpg); */
+  background-size : cover ;
+  background: linear-gradient(to right, teal , black );
+}
+
+li{
+  list-style : none;
+  display: inline-block;
+}
+
+h1{
+    color : azure;
+    text-align:center;
+}
+
+
+h2{
+color : darkcyan;
+text-align : left;
+border : 1px silver;
+background-color :transparent;
+text-align:center;
+}
+
+p{
+color : #236863 ;
+}
